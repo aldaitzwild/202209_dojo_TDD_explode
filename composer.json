@@ -1,0 +1,17 @@
+{
+    "name": "lenovo/test_app",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\TestApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thomas Aldaitz",
+            "email": "thomas.aldaitz@wildcodeschool.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
